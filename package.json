@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@google-cloud/firestore": "^4.9.8",
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^9.5.0"
   },
   "devDependencies": {},
   "scripts": {
